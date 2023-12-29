@@ -23,10 +23,10 @@ A ship is sunk after being hit once for each space it occupies. Sink all 5 compu
 ![Alt Text](8_programView_330415.jpg)
 
 Installation
+
 Clone the repo
 
 git clone https://github.com/IlonaC365/battleship.git 
-Run backend server on port 8080. Navigate to frontend folder and start the server. Install missing dependencies.
 
 Fork the Project
 
