@@ -19,5 +19,7 @@ For example: "A1" and 'H' or "B7" and 'V'. Shoot the enemy ships Once both playe
 Shoot the Enemy Ships: Shoot your opponent’s ships by matching the coordinates. You will be informed if you have hit or missed a ship.
 A ship is sunk after being hit once for each space it occupies. Sink all 5 computer ships to win!
 
+![Alt Text](8_programView_330415.jpg)
+
 Technologies:
 Java
