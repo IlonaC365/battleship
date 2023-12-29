@@ -6,6 +6,9 @@ Each ship of the Fleet might be of one of the following ship types, which differ
 
 Carrier (5 cells); Battleship (4 cells); Cruiser (3 cells); Destroyer (2 cell); Submarine (1 cell).
 
+"C:\Users\ilonk\OneDrive\Pictures\Screenshots\Screenshot 2023-12-29 160337.png"
+
+
 How to win Each player has a battlefield represented by a 10x10 grid (default) on which he places 5 ships, hidden from his opponent. 
 The goal of the game is to sink all the opposing ships! A ship is sunk when it is hit once for each space it occupies. 
 In other words, a submarine, which occupies two spaces, is sunk after being hit twice. The 5 ships occupy 15 total spaces, so the first player to record 15 hits wins!
