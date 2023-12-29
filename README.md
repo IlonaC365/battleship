@@ -29,6 +29,7 @@ git clone https://github.com/IlonaC365/battleship.git
 Run backend server on port 8080. Navigate to frontend folder and start the server. Install missing dependencies.
 
 Fork the Project
+
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
