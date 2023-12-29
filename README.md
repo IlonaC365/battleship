@@ -22,8 +22,11 @@ A ship is sunk after being hit once for each space it occupies. Sink all 5 compu
 
 ![Alt Text](8_programView_330415.jpg)
 
-Contributing
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+Installation
+Clone the repo
+
+git clone https://github.com/IlonaC365/battleship.git 
+Run backend server on port 8080. Navigate to frontend folder and start the server. Install missing dependencies.
 
 Fork the Project
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
