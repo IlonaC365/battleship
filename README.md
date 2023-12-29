@@ -6,7 +6,7 @@ Each ship of the Fleet might be of one of the following ship types, which differ
 
 Carrier (5 cells); Battleship (4 cells); Cruiser (3 cells); Destroyer (2 cell); Submarine (1 cell).
 
-![Alt Text](C:\Users\ilonk\OneDrive\Pictures\Screenshots\Screenshot 2023-12-29 160337.png)
+![Screenshot](Screenshot 2023-12-29 161207.png)
 
 
 
