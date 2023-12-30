@@ -1,4 +1,4 @@
-                                                              BATTLESHIP
+BATTLESHIP
 
 General idea Battleship is usually a two-player game. 
 Each player has a fleet of ships and an ocean where the ships are placed, 
