@@ -20,7 +20,7 @@ Place your ships :
 To place a ship you need to enter a departure coordinate (A1-J10 for the default 10x10 board) and a direction (vertical or horizontal). 
 For example: "A1" and 'H' or "B7" and 'V'. Shoot the enemy ships Once both players have configured their ships, the battle may have started!
 
-Shoot the Enemy Ships: Shoot your opponent’s ships by matching the coordinates. You will be informed if you have hit or missed a ship.
+Shoot the Enemy Ships : Shoot your opponent’s ships by matching the coordinates. You will be informed if you have hit or missed a ship.
 A ship is sunk after being hit once for each space it occupies. Sink all 5 computer ships to win!
 
 ![Alt Text](8_programView_330415.jpg)
