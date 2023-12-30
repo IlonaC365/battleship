@@ -1,6 +1,5 @@
                                                               BATTLESHIP
 
-This is the Battleship project. 
 General idea Battleship is usually a two-player game. 
 Each player has a fleet of ships and an ocean where the ships are placed, 
 but hidden from the other player, and both players compete to sink the other player's fleet first. 
