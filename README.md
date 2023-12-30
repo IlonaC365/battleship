@@ -11,11 +11,12 @@ Carrier (5 cells); Battleship (4 cells); Cruiser (3 cells); Destroyer (2 cell).
 ![Alt Text](Bluetooth-Battleship_1_45438.jpg)
 
 
-How to win Each player has a battlefield represented by a 10x10 grid (default) on which he places 4 ships, hidden from his opponent. 
+How to win : 
+Each player has a battlefield represented by a 10x10 grid (default) on which he places 4 ships, hidden from his opponent. 
 The goal of the game is to sink all the opposing ships! A ship is sunk when it is hit once for each space it occupies. 
 In other words, a destroyer, which occupies two spaces, is sunk after being hit twice. The 4 ships occupy 14 total spaces, so the first player to record 14 hits wins!
 
-Place your ships: 
+Place your ships : 
 To place a ship you need to enter a departure coordinate (A1-J10 for the default 10x10 board) and a direction (vertical or horizontal). 
 For example: "A1" and 'H' or "B7" and 'V'. Shoot the enemy ships Once both players have configured their ships, the battle may have started!
 
